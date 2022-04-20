@@ -3,7 +3,7 @@ package firstproj;
 public class classobj {
 	int yearofpurchase; //data member
 	String model;// data member
-	double cost;// datamember
+	double cost;// data member
 	public void disp1()// member function
 	{
 		System.out.println("year of purchase" + 2001);
